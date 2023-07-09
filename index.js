@@ -21,7 +21,6 @@ function save() {
     mem = 0 
     countEl.innerText = 0
     count =0
-   
 
 }
 
